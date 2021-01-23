@@ -1,2 +1,2 @@
 # Portfolio
-Here all the noteworthy projects I've taken on
+Here are all the noteworthy projects I've taken on
